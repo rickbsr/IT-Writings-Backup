@@ -9,5 +9,6 @@
 
 ## 貳、填坑日常
 
+- [在「Mac OS」上完整移除「IntelliJ IDEA」的設定檔、暫存檔](https://rickbsr.medium.com/%E5%9C%A8-mac-os-%E4%B8%8A%E5%AE%8C%E6%95%B4%E7%A7%BB%E9%99%A4-intellij-idea-%E7%9A%84%E8%A8%AD%E5%AE%9A%E6%AA%94-%E6%9A%AB%E5%AD%98%E6%AA%94-a15911e6263e)
 
 ## 參、讀書手札
