@@ -23,7 +23,7 @@ rm -rf /Users/{username}/Library/Application\ Support/JetBrains
 rm -rf /Users/{username}/Library/Logs/JetBrains
 ```
 
-##### 備註：「`{username}`」為「使用者」的電腦名稱。
+備註：「`{username}`」為「使用者」的電腦名稱。
 
 擔心自己的金魚腦，記錄一下，「Joe4John」，收工！
 
@@ -34,6 +34,6 @@ rm -rf /Users/{username}/Library/Logs/JetBrains
 ---
 
 ###### Category: 填坑筆記
-###### Tag: 軟體開發, 敏捷思維
+###### Tag: IntelliJ IDEA, Mac OS, 環境設定
 ###### Date: 2022-06-13
 ###### Alias: rm_ij_temps_in_mac
